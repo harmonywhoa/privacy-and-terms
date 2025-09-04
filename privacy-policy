@@ -1,0 +1,117 @@
+Privacy Policy
+Click2QBO Sync - Your Data Security is Our Priority
+Last updated: January 2025
+
+🔒 Our Commitment: We will never share, rent, or sell your personal data to others. We do not share your data with AI models or other third-party tools. Your data security and privacy are our top priorities.
+
+Overview
+Click2QBO Sync is a Google Workspace Add-on that securely synchronizes data between ClickUp and QuickBooks Online through Google Sheets. This Privacy Policy explains how we collect, use, and protect your information.
+
+Information We Collect
+Personal Information
+Email Address: We collect your email address through Google account authentication to uniquely identify you and store your connections
+Account Information: Basic account details to provide and manage our services
+Integration Data
+ClickUp Data: Task information, custom fields, and project details that you choose to sync
+QuickBooks Data: Customer information, invoice data, and project details created through our sync
+Google Sheets Data: Spreadsheet content and formatting that you authorize us to access
+Log & Performance Data
+Sync Logs: Information about sync operations, success/failure rates, and performance metrics
+Error Reports: Technical details to help us investigate and resolve issues
+Usage Analytics: Aggregated data about feature usage to improve our service
+How We Use Your Information
+To Provide Our Services
+Authenticate and identify you across ClickUp, QuickBooks Online, and Google Sheets
+Execute data synchronization between your connected platforms
+Maintain your field mappings and sync configurations
+Provide customer support and technical assistance
+To Improve Our Services
+Analyze sync performance and identify optimization opportunities
+Investigate and resolve technical issues
+Develop new features based on usage patterns
+Ensure system reliability and security
+Data Security & Privacy
+Security Measures
+Google Cloud Platform: We rely on Google's enterprise-grade security infrastructure
+OAuth2 Authentication: Secure, token-based authentication with no password storage
+Data Encryption: All data is encrypted in transit and at rest
+Access Control: Strict access controls and audit logging
+Data Handling Principles
+No Data Mining: We never analyze your business data for commercial purposes
+No Third-Party Sharing: Your data never leaves our secure infrastructure
+Minimal Storage: We only store data necessary for service operation
+User Control: You can disconnect integrations and request data deletion at any time
+Google API Usage & OAuth Scopes
+Click2QBO Sync uses and transfers information received from Google APIs in accordance with the Google API Services User Data Policy, including the Limited Use requirements.
+
+OAuth Scopes We Use:
+spreadsheets
+Access to read and write data in your Google Sheets for synchronization
+
+spreadsheets.currentonly
+Access only to the specific spreadsheets you're currently working with
+
+userinfo.email
+Your email address to identify you and store your connections
+
+script.external_request
+Connect with ClickUp and QuickBooks Online APIs for data synchronization
+
+script.scriptapp
+Create and manage automated sync triggers for your convenience
+
+script.container.ui
+Display user interface elements, alerts, and error messages
+
+Data Sharing & Third Parties
+What We Don't Do
+❌ Sell or rent your personal information
+❌ Share your data with advertisers or marketers
+❌ Use your data for AI training or machine learning
+❌ Access your data outside of authorized sync operations
+What We Do
+✅ Use Google Cloud Platform for secure data processing
+✅ Integrate with ClickUp and QuickBooks Online APIs as authorized by you
+✅ Use Google Analytics for anonymous usage statistics (no personal data)
+✅ Store data in Google's secure infrastructure
+Your Rights & Control
+Data Access & Control
+View Your Data: Access all data we store about you through our dashboard
+Disconnect Integrations: Remove ClickUp or QuickBooks connections at any time
+Delete Your Data: Request complete deletion of your account and all associated data
+Export Your Data: Download a copy of your data in standard formats
+Integration Permissions
+Click2QBO only accesses the specific Google Sheets you authorize
+You control which ClickUp lists and QuickBooks data are synchronized
+All sync operations are logged and visible to you
+You can pause or stop synchronization at any time
+Data Retention
+Active Accounts: Data is retained while your account is active
+Deleted Accounts: All data is permanently deleted within 30 days
+Log Data: Technical logs are retained for up to 90 days for support purposes
+Backup Data: Secure backups are maintained for disaster recovery
+Children's Privacy
+Click2QBO Sync is not intended for use by individuals under the age of 18. We do not knowingly collect personal information from children under 18.
+
+International Data Transfers
+Your data is processed and stored on Google Cloud Platform servers, which may be located in different countries. We ensure all data transfers comply with applicable data protection laws.
+
+Changes to This Policy
+We may update this Privacy Policy from time to time. We will notify you of any material changes by:
+
+Posting the updated policy on our website
+Sending an email notification to your registered email address
+Displaying a notice in the add-on interface
+Your continued use of Click2QBO Sync after any changes constitutes acceptance of the updated policy.
+
+Compliance & Certifications
+GDPR Compliance: We comply with European data protection regulations
+CCPA Compliance: We respect California consumer privacy rights
+Google Workspace Compliance: We follow Google's add-on development guidelines
+Security Audits: Regular security assessments and penetration testing
+Questions About This Privacy Policy?
+We're committed to transparency and protecting your privacy. If you have any questions, concerns, or requests regarding this Privacy Policy or your data, please don't hesitate to contact us.
+
+Email: privacy@click2qbo.com
+
+Support: support@click2qbo.com
